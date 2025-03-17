@@ -55,7 +55,8 @@ int main(void)
 
 	terminar_programa(conexion, logger, config);
 
-	//Cliente desplegado correctamente
+	//Cliente y Servidor desplegados correctamente
+	//TP0 terminado
 
 	/*---------------------------------------------------PARTE 5-------------------------------------------------------------*/
 	// Proximamente
