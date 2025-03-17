@@ -55,6 +55,8 @@ int main(void)
 
 	terminar_programa(conexion, logger, config);
 
+	//Cliente desplegado correctamente
+
 	/*---------------------------------------------------PARTE 5-------------------------------------------------------------*/
 	// Proximamente
 }
